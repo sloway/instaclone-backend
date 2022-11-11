@@ -42,13 +42,10 @@ build/Release
 node_modules/
 jspm_packages/
 
-<<<<<<< HEAD
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
-=======
 # TypeScript v1 declaration files
 typings/
->>>>>>> 47a0ebd7b2974d2847106b71a628890eca13ace7
 
 # TypeScript cache
 *.tsbuildinfo
@@ -59,12 +56,9 @@ typings/
 # Optional eslint cache
 .eslintcache
 
-<<<<<<< HEAD
 # Optional stylelint cache
 .stylelintcache
 
-=======
->>>>>>> 47a0ebd7b2974d2847106b71a628890eca13ace7
 # Microbundle cache
 .rpt2_cache/
 .rts2_cache_cjs/
@@ -80,7 +74,6 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
-<<<<<<< HEAD
 # dotenv environment variable files
 .env
 .env.development.local
@@ -95,7 +88,6 @@ typings/
 # Next.js build output
 .next
 out
-=======
 # dotenv environment variables file
 .env
 .env.test
@@ -105,7 +97,6 @@ out
 
 # Next.js build output
 .next
->>>>>>> 47a0ebd7b2974d2847106b71a628890eca13ace7
 
 # Nuxt.js build / generate output
 .nuxt
@@ -113,18 +104,14 @@ dist
 
 # Gatsby files
 .cache/
-<<<<<<< HEAD
 # Comment in the public line in if your project uses Gatsby and not Next.js
-=======
 # Comment in the public line in if your project uses Gatsby and *not* Next.js
->>>>>>> 47a0ebd7b2974d2847106b71a628890eca13ace7
 # https://nextjs.org/blog/next-9-1#public-directory-support
 # public
 
 # vuepress build output
 .vuepress/dist
 
-<<<<<<< HEAD
 # vuepress v2.x temp and cache directory
 .temp
 .cache
@@ -132,8 +119,6 @@ dist
 # Docusaurus cache and generated files
 .docusaurus
 
-=======
->>>>>>> 47a0ebd7b2974d2847106b71a628890eca13ace7
 # Serverless directories
 .serverless/
 
@@ -145,7 +130,6 @@ dist
 
 # TernJS port file
 .tern-port
-<<<<<<< HEAD
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
@@ -156,5 +140,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-=======
->>>>>>> 47a0ebd7b2974d2847106b71a628890eca13ace7
+
+/uploads
+/prisma/migrations
+.DS_Store
